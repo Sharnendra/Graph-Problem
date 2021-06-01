@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 //To Determine whether the graph is Cyclic or not using Depth First Search
-public class CyclicGraphDeterminerDFS {
+public class CyclicUnDirectedGraphDeterminerDFS {
 
 	// A utility function to add an edge in an
 	// undirected graph

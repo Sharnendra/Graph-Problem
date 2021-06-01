@@ -6,7 +6,7 @@ import java.util.List;
 import java.util.Queue;
 
 //To Determine whether the graph is Cyclic or not using Breadth First Search
-public class CyclicGraphDeterminerBFS {
+public class CyclicUnDirectedGraphDeterminerBFS {
 
 	// A utility function to add an edge in an
 	// undirected graph
