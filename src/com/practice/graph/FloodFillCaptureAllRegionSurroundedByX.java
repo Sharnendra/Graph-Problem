@@ -33,7 +33,7 @@ Output:
   X O O X
   X O X X
  * */
-public class CaptureAllRegionSurroundedByX {
+public class FloodFillCaptureAllRegionSurroundedByX {
 	static int M = 6;
 	static int N = 6;
 
